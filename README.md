@@ -1,4 +1,4 @@
-# Super-Dino-Bros
+# Super Dino Bros
 A simple platformer using the Tic-80 fantasy console
 
 Visit https://tic80.com
@@ -11,10 +11,11 @@ Dinoworld.lua - exported Lua code
 
 
 
-Instructions:
+### Instructions:
+- Movement - Arrow Keys
+- Jump - Space
+- Menu - Esc
 
-Movement - Arrow Keys
+![screenshot 1](./screenshot1.png)
+![screenshot 2](./screenshot2.png)
 
-Jump - Space
-
-Menu - Esc
